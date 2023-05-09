@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T14:41:30.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" version="21.2.7" etag="-mHeRVqJFo_6UNXo0cgP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T16:04:40.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="DPjdqYhwdAE4Hiekottl" version="21.2.7" type="github">
   <diagram name="第 1 页" id="cun9CNynHipjSzs34nuo">
-    <mxGraphModel>
+    <mxGraphModel dx="910" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-1" value="基于微服务的在线租房系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="402" y="40" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-2" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-2" value="在线租房" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-4" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-4" value="在线出租" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-5" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-5" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-6" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-6" value="评价管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-10" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-10" value="房源管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-11" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-11" value="我的收藏" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="650" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-21" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-21" value="消息" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
