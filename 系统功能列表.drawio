@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T16:12:44.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="UfR940L2fQyuNJJaSl2z" version="21.2.7" type="github" pages="2">
-  <diagram name="第 1 页" id="cun9CNynHipjSzs34nuo">
+<mxfile host="app.diagrams.net" modified="2023-05-09T16:14:17.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="CMmVs4gWvZL0_l5Dzi5Y" version="21.2.7" type="github" pages="2">
+  <diagram name="系统功能列表" id="cun9CNynHipjSzs34nuo">
     <mxGraphModel dx="910" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -52,7 +52,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2as7lwIzzaQ-bB5pXrub" name="第 2 页">
+  <diagram id="2as7lwIzzaQ-bB5pXrub" name="角色活动图">
     <mxGraphModel dx="910" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
