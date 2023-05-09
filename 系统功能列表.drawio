@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T16:14:17.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="CMmVs4gWvZL0_l5Dzi5Y" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-09T16:19:36.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="Ck6nrpU2g1gMpjuUzigq" version="21.2.7" type="github" pages="2">
   <diagram name="系统功能列表" id="cun9CNynHipjSzs34nuo">
     <mxGraphModel dx="910" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LpXPXxxJOmQsM5H7QRKT-1" value="基于微服务的在线租房系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="402" y="40" width="206" height="60" as="geometry" />
+          <mxGeometry x="364" y="40" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LpXPXxxJOmQsM5H7QRKT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-2" target="LpXPXxxJOmQsM5H7QRKT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LpXPXxxJOmQsM5H7QRKT-2" value="在线租房" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="LpXPXxxJOmQsM5H7QRKT-2" value="在线退房" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpXPXxxJOmQsM5H7QRKT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LpXPXxxJOmQsM5H7QRKT-4" target="LpXPXxxJOmQsM5H7QRKT-1">
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="LpXPXxxJOmQsM5H7QRKT-21" value="消息" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="730" y="140" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="E8-ef2tsmfSjULnU7rr3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="E8-ef2tsmfSjULnU7rr3-1" target="LpXPXxxJOmQsM5H7QRKT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8-ef2tsmfSjULnU7rr3-1" value="在线租房" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="30" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
