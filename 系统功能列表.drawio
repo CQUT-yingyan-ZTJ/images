@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T02:26:05.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="UsZqtkqXPQStAR6ViVqp" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-10T02:27:51.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="qOPCPd92PNSREMyGO_gt" version="21.2.9" type="github" pages="2">
   <diagram name="系统功能列表" id="cun9CNynHipjSzs34nuo">
     <mxGraphModel dx="910" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
         <mxCell id="YyrkCWXrhaajRSJGBQNj-56" value="房屋状况是否良好" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166.25" y="610" width="123.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YyrkCWXrhaajRSJGBQNj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YyrkCWXrhaajRSJGBQNj-58" target="YyrkCWXrhaajRSJGBQNj-70">
+        <mxCell id="YyrkCWXrhaajRSJGBQNj-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YyrkCWXrhaajRSJGBQNj-58" target="YyrkCWXrhaajRSJGBQNj-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YyrkCWXrhaajRSJGBQNj-58" value="扣留租户押金，并根据损失情况向租户索取赔偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -257,6 +257,12 @@
         </mxCell>
         <mxCell id="YyrkCWXrhaajRSJGBQNj-73" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="590" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YyrkCWXrhaajRSJGBQNj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YyrkCWXrhaajRSJGBQNj-78" target="YyrkCWXrhaajRSJGBQNj-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YyrkCWXrhaajRSJGBQNj-78" value="完成赔偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="720" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
