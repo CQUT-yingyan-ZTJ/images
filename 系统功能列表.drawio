@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T06:27:26.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="0rb186JKvqSFZfHGD0vV" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-11T06:33:41.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="F1XF-hmcw09EkAC6GWLt" version="21.2.9" type="github" pages="5">
   <diagram name="系统功能列表" id="cun9CNynHipjSzs34nuo">
     <mxGraphModel dx="910" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -512,6 +512,40 @@
         </mxCell>
         <mxCell id="3ZWPg-UFfzDZD99c9QlC-16" value="分配菜单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187.5" y="520" width="135" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cvC4eEsaItPZrSk8pNwJ" name="角色权限管理用例图">
+    <mxGraphModel dx="910" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frcbmUgF0p8DL48R9r-A-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="frcbmUgF0p8DL48R9r-A-1" target="frcbmUgF0p8DL48R9r-A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="frcbmUgF0p8DL48R9r-A-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="frcbmUgF0p8DL48R9r-A-1" target="frcbmUgF0p8DL48R9r-A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="frcbmUgF0p8DL48R9r-A-1" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frcbmUgF0p8DL48R9r-A-3" value="角色管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="frcbmUgF0p8DL48R9r-A-4" value="菜单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="frcbmUgF0p8DL48R9r-A-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="frcbmUgF0p8DL48R9r-A-6" target="frcbmUgF0p8DL48R9r-A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="frcbmUgF0p8DL48R9r-A-8" value="《extend》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frcbmUgF0p8DL48R9r-A-7">
+          <mxGeometry x="-0.2717" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="frcbmUgF0p8DL48R9r-A-6" value="权限控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="660" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
